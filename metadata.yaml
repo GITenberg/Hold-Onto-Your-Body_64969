@@ -1,0 +1,35 @@
+_repo: Hold-Onto-Your-Body_64969
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Terry, W. E.
+    aliases:
+    - Terry, Bill
+    - Terry, Willis E.
+    birthdate: 1921
+    deathdate: 1992
+    gutenberg_agent_id: '34265'
+    url: http://www.gutenberg.org/2009/agents/34265
+creator:
+  author:
+    agent_name: Lewis, Richard O.
+    gutenberg_agent_id: '34303'
+    url: http://www.gutenberg.org/2009/agents/34303
+description: ''
+gutenberg_issued: '2021-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Hold Onto Your Body!
+url: http://www.gutenberg.org/ebooks/64969
