@@ -10,12 +10,17 @@ contributor:
     deathdate: 1992
     gutenberg_agent_id: '34265'
     url: http://www.gutenberg.org/2009/agents/34265
+covers:
+- cover_type: archival
+  image_path: 64969-h/images/cover.jpg
 creator:
   author:
     agent_name: Lewis, Richard O.
     gutenberg_agent_id: '34303'
     url: http://www.gutenberg.org/2009/agents/34303
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64969#Hold-Onto-Your-Body
 gutenberg_issued: '2021-03-31'
 gutenberg_type: Text
 identifiers:
